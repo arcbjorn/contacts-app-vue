@@ -1,5 +1,6 @@
 # Contacts app
-### This app is made for fast and easy storing of contacts.### Made using Vue, Vuex, vue-router, Firebase, SCSS
+### This app is made for fast and easy storing of contacts.
+### Made using Vue, Vuex, vue-router, Firebase, SCSS
 
 ## Install dependencies
 
